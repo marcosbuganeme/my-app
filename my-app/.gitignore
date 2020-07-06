@@ -7,7 +7,7 @@
 /public
 # testing
 /coverage
-
+*.lock
 # production
 /build
 
